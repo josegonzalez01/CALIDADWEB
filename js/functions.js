@@ -619,9 +619,9 @@ jQuery($=> {
             });
             $('.pricing-price .pricing-duration').each(function () {
                 if (opt) {
-                    $(this).text("year");
+                    $(this).text("año");
                 } else {
-                    $(this).text("month");
+                    $(this).text("mes");
                 }
 
             });
